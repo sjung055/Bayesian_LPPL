@@ -22,4 +22,4 @@ This repository contains the implementation of algorithms outlined in the paper 
 1. A posterior sample of parameters at each iteration allows for plotting a line using the LPPL Model equation. To address uncertainty, the Bayesian approach advocates using a credible interval. I have thus developed a code ([`posterior_credible_interval.R`](./posterior_credible_interval.R)) that plots a 95% credible interval alongside the actual S&P 500 index data. This feature represents a novel contribution of my code, as the original paper did not discuss the use of a 95% credible interval.
 
 ## Contact
-For any inquiries, you can reach me at [sjung055@yonsei.ac.kr](sjung055@yonsei.ac.kr).
+For any inquiries, you can reach me at [sjung055@yonsei.ac.kr](mailto:sjung055@yonsei.ac.kr).
